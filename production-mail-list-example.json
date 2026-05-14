@@ -1,0 +1,26 @@
+{
+    "sync_id": "BATCH_001",
+    "users": [
+      {
+        "external_id": "1001",
+        "email": "test@example.com",
+        "full_name": "Digg Zhang",
+        "group_ids": ["186094883918841664"],
+        "tags": ["AI"]
+      },
+      {
+        "external_id": "1002",
+        "email": "enlin@wayflow.ai",
+        "full_name": "Shen Enlin",
+        "group_ids": ["186094883918841664"],
+        "tags": ["AI"]
+      },
+      {
+        "external_id": "1003",
+        "email": "bossxie@wayflow.ai",
+        "full_name": "Boss Xie",
+        "group_ids": ["186094883918841664"],
+        "tags": ["AI"]
+      }
+    ]
+  }
